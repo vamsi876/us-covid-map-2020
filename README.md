@@ -4,8 +4,6 @@ An interactive visualization of COVID-19 cases across US counties in 2020 using 
 
 🌐 **[View Live Map](https://vamsi876.github.io/us-covid-map-2020/)**
 
-![Sample Map Screenshot](TotalCovidMap-LN-superJumbo.png.webp)
-
 ## Features
 
 - Interactive map showing COVID-19 cases by county
