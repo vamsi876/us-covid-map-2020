@@ -32,7 +32,6 @@ ENV/
 
 # Project specific
 us-counties.csv
-covid_map.html
 
 # OS specific
 .DS_Store

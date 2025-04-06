@@ -22,7 +22,7 @@ An interactive visualization of COVID-19 cases across US counties in 2020 using 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/us-covid-map-2020.git
+git clone https://github.com/vamsi876/us-covid-map-2020.git
 cd us-covid-map-2020
 ```
 

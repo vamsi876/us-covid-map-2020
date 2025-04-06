@@ -148,6 +148,6 @@ m.get_root().html.add_child(folium.Element(title_html))
 folium.LayerControl().add_to(m)
 
 # Save the map
-m.save('covid_map.html')
+m.save('index.html')
 
-print("Map has been created as 'covid_map.html'") 
+print("Map has been created as 'index.html'") 
