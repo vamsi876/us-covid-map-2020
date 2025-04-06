@@ -2,6 +2,8 @@
 
 An interactive visualization of COVID-19 cases across US counties in 2020 using Python and Folium.
 
+🌐 **[View Live Map](https://vamsi876.github.io/us-covid-map-2020/)**
+
 ![Sample Map Screenshot](TotalCovidMap-LN-superJumbo.png.webp)
 
 ## Features
@@ -46,7 +48,7 @@ pip install -r requirements.txt
 python create_covid_map.py
 ```
 
-6. Open `covid_map.html` in your web browser to view the map
+6. Open `index.html` in your web browser to view the map
 
 ## Data Sources
 
